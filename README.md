@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on PRAGA S.A
+- 🔭 I’m currently working on PRAGMA S.A
 - 🌱 I’m currently learning Spring WebFlux
 - 📫 How to reach me: jmantillap@gmail.com
 - 💻 [AWS Certified Solutions Architect–Associate](https://www.credly.com/badges/db5eb23a-e683-4c71-a53d-3d4866fd9858)
